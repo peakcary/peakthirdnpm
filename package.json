@@ -1,0 +1,27 @@
+{
+  "name": "peakthirdnpm",
+  "version": "1.0.0",
+  "private": false,
+  "description": "repeat what you say",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "preferGlobal": true,
+  "bin": {
+    "hei": "./bin/hei"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peakcary/peakthirdnpm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peakcary/peakthirdnpm/issues"
+  },
+  "homepage": "https://github.com/peakcary/peakthirdnpm#readme"
+}
